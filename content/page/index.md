@@ -1,6 +1,6 @@
 ---
 title: "A test page"
-description: "A blog post with a header image"
+description: "A standard page with a header image"
 tags: "hugo"
 menus: "main"
 ---
